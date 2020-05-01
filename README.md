@@ -7,11 +7,8 @@
 * Piłkę ręczną
 * Siatkówkę
 
-##### Ulubione Dania 
-1 Spaghetti bolognese
-2 Makaronowe muszle z sałatką z makreli na rukoli
-3 Karczek z grilla
 **123**
 _1234_
 ~~12345~~
+
 ![Logo WSEI](https://www.wsei.lublin.pl/wp-content/uploads/2020/01/WSEI-Lublin-logo-g20.png)
